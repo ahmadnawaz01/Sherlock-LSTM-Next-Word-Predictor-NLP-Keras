@@ -43,9 +43,3 @@ Engineered an auto-regressive text generation algorithm. The inference pipeline 
 *   **Processing:** Converted to lowercase, stripped of special characters, and tokenized into distinct integer mappings representing the global vocabulary of the book.
 
 ---
-
-## How to Run the Web Application
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/yourusername/Sherlock-LSTM-Next-Word-Predictor.git](https://github.com/yourusername/Sherlock-LSTM-Next-Word-Predictor.git)
